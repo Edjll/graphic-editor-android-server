@@ -1,0 +1,11 @@
+server:
+  port: 8085
+
+spring:
+  datasource:
+    username: android
+    password: 123
+    url: jdbc:postgresql://database:5432/android
+  jpa:
+    hibernate:
+      ddl-auto: update

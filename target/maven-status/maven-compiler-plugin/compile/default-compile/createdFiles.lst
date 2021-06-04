@@ -1,0 +1,5 @@
+ru\edjll\android\web\entity\Image.class
+ru\edjll\android\web\repository\ImageRepository.class
+ru\edjll\android\web\AndroidWebApplication.class
+ru\edjll\android\web\service\ImageService.class
+ru\edjll\android\web\controller\Controller.class
